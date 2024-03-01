@@ -11,7 +11,7 @@ It is a simple header-only file, located in [include/parametricAnalysis.h](https
 For demonstration purposes, additional files are provided within this repository to showcase a test case. Follow the instructions below to execute a sample analysis, which will utilise design, atmospheric, and operational conditions specified in [src/parametric_analysis.cpp](https://github.com/harshabose/parametric_analysis_tool/blob/main/src/parametric_analysis.cpp). Upon completion, the program will display the optimal T/W and W/S ratios.
 
 ``` bash
-  git clone
+  git clone https://github.com/harshabose/parametric_analysis_tool.git
   mkdir build && cd build
   cmake ..
   make
