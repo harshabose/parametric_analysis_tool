@@ -1,7 +1,7 @@
 # parametric_analysis_tool
 A simple and effective aircraft parametric analysis tool.
 
-This is a small repository of a larger project in works which aims to automate pre-conceptual and conceptual design process of a fixed-wing aircraft. The aim of the project is to allow the user to generate rapid analysis data for trade-off studies allowing for faster and leaner conceptual design phases. The scope of this project is primarily focused of small scale projects which may include modern Unmanned Aerial Vehicles (UAV) and mid-sized eVTOL aircraft (conventional aircraft are not supported, though support for inclusion of additional design criteria a given in the header file).
+This is a small repository of a larger project in works which aims to automate pre-conceptual and conceptual design process of a fixed-wing aircraft. The aim of the project is to allow the user to generate rapid analysis data for trade-off studies allowing for faster and leaner conceptual design phases. The scope of this project is primarily focused of small scale projects which may include modern Unmanned Aerial Vehicles (UAV) and mid-sized eVTOL aircraft (conventional aircraft are not supported, though support for inclusion of additional design criteria are given in the header file).
 
 The current repository houses the parametric analysis toolkit which allows for a rapid and accurate parametric analysis of an aircraft concpet to obtain optimal values for Thrust-to-Weight ratio and Weight-to-Surface Area ratio. This step is often the foundational step of any aircraft design stage and automating it gives the desingner a sleek advantage.
 
